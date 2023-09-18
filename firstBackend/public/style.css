@@ -1,0 +1,36 @@
+body{
+    background: #e8a480;
+    padding: 5rem 40rem 5rem 40rem;
+}
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+form {
+    padding: 2rem;
+    height: 400px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background: #f0f0f0;
+    border-radius: 25px;
+}
+input{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: 20rem;
+    margin-right: 20rem;
+    padding: 5px;
+    width: 200px;
+}
+button {
+    margin-left: 30rem;
+    margin-right: 30rem;
+    background: #a80fb3;
+    color: white;
+    padding: 10px 40px 10px 40px;
+}
